@@ -41,18 +41,6 @@ neural-networks-from-scratch/
 
 ---
 
-## 🔗 Open in Colab
-
-| Colab | Badge |
-|-------|-------|
-| A — NumPy Scratch | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_A) |
-| B — PyTorch Scratch | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_B) |
-| C — PyTorch nn.Module | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_C) |
-| D — PyTorch Lightning | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_D) |
-| E-i — TF Scratch | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_E1) |
-| E-ii — TF Built-in | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_E2) |
-| E-iii — TF Functional | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_E3) |
-| E-iv — TF Sequential | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_E4) |
 
 ---
 
