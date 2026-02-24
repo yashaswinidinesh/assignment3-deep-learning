@@ -11,7 +11,7 @@
 |---|-------|-------------|-------|
 | A | NumPy from Scratch | Manual backprop · tf.einsum · 4D plot | [▶ Watch](https://youtu.be/eSP1MW2Jxck) |
 | B | PyTorch Scratch | Raw tensors · no nn.Linear | [▶ Watch](https://youtu.be/2aBIeSaYkIk) |
-| C | PyTorch nn.Module | Class-based · built-in layers | [▶ Watch](YOUR_YOUTUBE_LINK_C) |
+| C | PyTorch nn.Module | Class-based · built-in layers | [▶ Watch](https://youtu.be/9T-38fr2omY) |
 | D | PyTorch Lightning | LightningModule · Trainer | [▶ Watch](YOUR_YOUTUBE_LINK_D) |
 | E-i | TF Low-Level | tf.Variable · GradientTape | [▶ Watch](YOUR_YOUTUBE_LINK_E1) |
 | E-ii | TF Built-in Layers | Dense layers · GradientTape loop | [▶ Watch](YOUR_YOUTUBE_LINK_E2) |
